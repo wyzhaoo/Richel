@@ -1,0 +1,116 @@
+body {
+    background-color: rgb(241, 222, 201);
+
+    
+}
+
+
+.firstsection > .container{
+    margin-top:150px;
+    
+    
+}
+#title{
+    
+    font-family: 'Pacifico', cursive;
+    letter-spacing: 3px;
+    font-size: 80px;
+    
+    text-align: center;
+}
+#subtitle {
+    font-size: 3rem;
+    font-family: 'Darumadrop One', cursive;
+    margin-top: 40px;
+    
+    text-align: center;
+    
+}
+span{
+    background-color: rgb(200, 182, 166);
+    border-radius: 20px;
+    padding:3px
+}
+.secondsection{
+    margin-top: 80px;
+    font-family: 'Darumadrop One', cursive;
+    
+}
+
+
+.lead{
+    font-size: 1.5rem;
+    
+   
+}  
+.btnyes{
+    background-color:  rgb(200, 182, 166);
+    border-color: rgb(200, 182, 166);
+    margin-right: 20px;
+}
+.btnyes:hover,.btnyes:focus,.btnyes:active {
+    background-color: rgb(164, 144, 124) !important ;
+    border-color: rgb(164, 144, 124) ;
+    
+}
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+    background-color: rgb(241, 222, 201) !important ;
+}
+
+.features{  
+    font-family: 'Darumadrop One', cursive;
+
+}
+.feature_p{
+    font-size:20px;
+}
+.skills{
+    margin-top:30px;
+    font-family: 'Darumadrop One', cursive;
+    text-align:center;
+}
+
+.skill_title{
+    margin-bottom: 50px;
+    text-align: left;
+}
+.imagesit{
+    border-radius: 20px;
+}
+.close_section{
+    margin-top:50px;
+    font-family: 'Darumadrop One', cursive;
+    text-align:center;
+    font-size: 1rem;
+}
+
+
+.gallery_section{
+    margin-top:100px;
+    font-family: 'Darumadrop One', cursive;
+}
+#carouselExampleIndicators{
+    width:500px;
+    margin-left:25%;
+
+}
+.footer{
+    background-color: rgb(164, 144, 124);
+    text-align: right;
+    height: 5vh;
+    
+}
+.copyright{
+    width:100%;
+}
+
+.footer_con{
+    margin-right:0px;
+}
+
+ 
+
+    
